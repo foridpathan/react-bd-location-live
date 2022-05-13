@@ -24,6 +24,11 @@ body {
 	margin-left: 30px;
 }
 
+.location-select {
+  color: #323232;
+  margin-bottom: 10px;
+}
+
 table {
   width: 100%;
   display: block;

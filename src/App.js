@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import { BDLocations } from './bd-location/dist/src';
+import { BDLocations } from 'react-bd-location';
 import { useState } from 'react';
 
 function App() {
